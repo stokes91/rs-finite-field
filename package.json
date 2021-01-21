@@ -1,0 +1,32 @@
+{
+  "name": "rs-finite-field",
+  "version": "2.0.0",
+  "description": "Generates a finite field and reed-solomon error correction classes of given size, generator, and base",
+  "main": "main.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexander Stokes <stokes91@gmail.com>",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/stokes91/rs-finite-field.git"
+  },
+  "keywords": [
+    "Reed",
+    "Solomon",
+    "Error",
+    "Correction",
+    "Code",
+    "Finite",
+    "Field",
+    "Galois"
+  ],
+  "bugs": {
+    "url": "https://github.com/stokes91/rs-finite-field/issues"
+  },
+  "homepage": "https://github.com/stokes91/rs-finite-field#readme"
+}
